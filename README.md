@@ -1,9 +1,9 @@
-# Octavius - Fully Decentralized Distributed File System and Stream Processing System
+# Crane - Stream Processing System 
 
-Octavius is a distributed file system and stream processing system. It uses elements of consistent hashing to 
+Crane is a distributed file system and stream processing system. It uses elements of consistent hashing to 
 enable a fully-decentralized system and has no single point of failure. 
 
-Octavius is more resilient and significantly faster than the Apache Hadoop File System, and is faster than 
+Crane is more resilient and significantly faster than the Apache Hadoop File System, and is faster than 
 Apache Spark Streaming for Stream Processing.
 
 # Features
@@ -84,3 +84,7 @@ will store copies of both the newer version and the older version.
 - Delete: `delete <dfs file name>`
 - Check files stored at server (Only shows files stored locally): `store`
 - Put data for stream processing: `putjson <path to local file> <dfs file name>`
+
+## Team Member
+Yidan Li
+Rahul Govind
