@@ -86,5 +86,5 @@ will store copies of both the newer version and the older version.
 - Put data for stream processing: `putjson <path to local file> <dfs file name>`
 
 ## Team Member
-Yidan Li
-Rahul Govind
+- Yidan Li
+- Rahul Govind
